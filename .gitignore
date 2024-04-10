@@ -1,0 +1,15 @@
+*/target/*
+nb-configuration.xml
+*/nb-configuration.xml
+/target
+/ears
+nbactions.xml
+*/nbactions.xml
+.classpath
+*/.classpath
+.settings/*
+*/.settings/*
+.project
+*/.project
+.metadata
+*/.metadata
